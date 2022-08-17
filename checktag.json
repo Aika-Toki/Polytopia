@@ -1024,5 +1024,12 @@
     "tutorial.task.capturevillage.title": "",
     "tutorial.task.capturevillage.description": "",
     "tutorial.task.unlockTech.title": "",
-    "tutorial.task.unlockTech.description": ""
+    "tutorial.task.unlockTech.description": "",
+    "wcontroller.meet.tribe.resource.boost": "",
+    "wcontroller.examine.swordsman.title": "",
+    "wcontroller.examine.swordsman": "",
+    "action.info.upgrade": "",
+    "diplomacy.state.war": "",
+    "diplomacy.state.war.description": "",
+    "onlineview.loading.title": ""
 }
