@@ -1024,5 +1024,12 @@
     "tutorial.task.capturevillage.title": "Move a Unit",
     "tutorial.task.capturevillage.description": "Click your unit in the city. The blue markers that appear on the map are places the unit can move to this turn. After moving the unit you need to end your turn for it to be able to move again.",
     "tutorial.task.unlockTech.title": "Tech tree",
-    "tutorial.task.unlockTech.description": "Click the 'Tech Tree' button and the pick the 'Hunting' technology. Now you can hunt wild animals to level up your cities!"
+    "tutorial.task.unlockTech.description": "Click the 'Tech Tree' button and the pick the 'Hunting' technology. Now you can hunt wild animals to level up your cities!",
+    "wcontroller.meet.tribe.resource.boost": "",
+    "wcontroller.examine.swordsman.title": "",
+    "wcontroller.examine.swordsman": "",
+    "action.info.upgrade": "",
+    "diplomacy.state.war": "",
+    "diplomacy.state.war.description": "",
+    "onlineview.loading.title": ""
 }
