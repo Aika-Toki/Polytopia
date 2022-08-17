@@ -336,7 +336,7 @@
     "gamemode.perfection.win": "",
     "gamemode.sandbox": "",
     "gamemode.sandbox.description": "",
-    "gamemode.tutorial": "",
+    "gamemode.tutorial": "_",
     "gamemode.tutorial.description": "",
     "gamemodepicker.title": "",
     "gamesaverbinary.error.loading.moves": "",
@@ -1007,5 +1007,12 @@
     "credits.programmers": "",
     "credits.qa": "",
     "credits.community": "",
-    "credits.managment": ""
+    "credits.managment": "",
+    "tooltip.ability.hide": "",
+    "tooltip.ability.infitrate": "",
+    "tooltip.ability.detect": "",
+    "tooltip.ability.embassy": "",
+    "tooltip.ability.capitalvision": "",
+    "tutorial.completed.title": "",
+    "tutorial.completed.description": ""
 }
